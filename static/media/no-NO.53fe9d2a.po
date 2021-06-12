@@ -152,7 +152,7 @@ msgstr "Aktiv"
 msgid "Add"
 msgstr "Legg til"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Add Delegate +"
 msgstr "Legg til delegat +"
 
@@ -322,7 +322,7 @@ msgid "Charts"
 msgstr "Kart"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
+msgid "Instant Finality powered by Avalanche"
 msgstr "Sjekk ut våre v3 LP gang- og migrasjonsguider."
 
 #: src/components/earn/ClaimRewardModal.tsx
@@ -449,7 +449,7 @@ msgstr "Bekreft bytt"
 #: src/components/TransactionConfirmationModal/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Confirm this transaction in your wallet"
 msgstr "Bekreft denne transaksjonen i din lommebok"
 
@@ -543,7 +543,7 @@ msgstr "Nåværende pris"
 msgid "Current {0} Price:"
 msgstr "Nåværende {0} pris:"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Delegate Votes"
 msgstr "Delegere stemmer"
 
@@ -551,8 +551,8 @@ msgstr "Delegere stemmer"
 msgid "Delegated to:"
 msgstr "Delegert til:"
 
-#: src/components/vote/DelegateModal.tsx
-msgid "Delegating votes"
+#: src/components/Vote/DelegateModal.tsx
+msgid "Delegating Votes"
 msgstr "Delegerer stemmer"
 
 #: src/components/earn/PoolCard.tsx
@@ -626,7 +626,7 @@ msgstr "Dokumenter"
 msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Ikke se en av dine v2 posisjoner? <0>Importer den.</0>"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Earned UNI tokens represent voting shares in Uniswap governance."
 msgstr "Opptjent UNI tokens representerer stemmeaksjer i Uniswap governance."
 
@@ -1015,7 +1015,7 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "Når du er fornøyd med satsen, klikk på levering for å vurdere."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgid "Only UNI Votes that were self delegated or delegated to another address before block {0} are eligible for voting."
 msgstr "Bare UNI stemmer som ble delegert eller delegert til annen adresse før blokk {0} kan stemme."
 
 #: src/components/Web3ReactManager/index.tsx
@@ -1174,7 +1174,7 @@ msgstr "Fjern"
 msgid "Remove Amount"
 msgstr "Fjern beløp"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Remove Delegate"
 msgstr "Fjern delegat"
 
@@ -1249,7 +1249,7 @@ msgstr "Valgt område"
 msgid "Self"
 msgstr "Selv"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Self Delegate"
 msgstr "Selvdelegat"
 
@@ -1291,7 +1291,7 @@ msgstr "Noe gikk galt"
 msgid "Step 1. Get UNI-V2 Liquidity tokens"
 msgstr "Trinn 1. Få UNI-V2 Likviditetstoken"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Submitting Vote"
 msgstr "Sender inn stemme"
 
@@ -1429,8 +1429,8 @@ msgstr "Transaksjons innstillinger"
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-#: src/components/vote/DelegateModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/DelegateModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Transaction Submitted"
 msgstr "Transaksjon sendt"
 
@@ -1459,7 +1459,7 @@ msgid "UNI price:"
 msgstr "UNI pris:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgid "UNI tokens represent voting shares in Uniswap governance. You can Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "UNI tokens representerer stemmeaksjer i Uniswap governance. Du kan stemme på hvert forslag selv eller delegere dine stemmer til en tredjepart."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -1492,7 +1492,7 @@ msgid "Uniswap Governance"
 msgstr "Uniswap Governance"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Uiswap V3 er her!"
 
 #: src/components/SwitchLocaleLink/index.tsx
@@ -1524,7 +1524,7 @@ msgstr "Lås opp stemmer"
 msgid "Unlock Voting"
 msgstr "Lås opp stemmegivning"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Unlocking Votes"
 msgstr "Låser opp stemmer"
 
@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "Vis UNI Analytics"
 
 #: src/pages/Pool/index.tsx
-msgid "View V2 Liquidity"
+msgid "Powered by Vote"
 msgstr "Se V2 Likviditet"
 
 #: src/components/PositionCard/index.tsx
@@ -1592,7 +1592,7 @@ msgstr "Vis på Explorer"
 #: src/components/ModalViews/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "View transaction on Explorer"
 msgstr "Se transaksjonen på Explorer"
 
@@ -1608,13 +1608,13 @@ msgstr "Stem mot"
 msgid "Vote For"
 msgstr "Stem på"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote against proposal {proposalId}"
 msgstr "Stem mot forslag {proposalId}"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote for proposal {proposalId}"
 msgstr "Stem på forslag {proposalId}"
 
@@ -1693,8 +1693,8 @@ msgstr "Du er den første likviditetsleverandøren til dette Uniswap V3 bassenge
 msgid "You are the first liquidity provider."
 msgstr "Du er den første likviditetsleverandøren."
 
-#: src/components/vote/DelegateModal.tsx
-msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+#: src/components/Vote/DelegateModal.tsx
+msgid "You can either Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "Du kan enten stemme på hvert forslag selv eller delegere stemmene til en tredjepart."
 
 #: src/pages/Swap/index.tsx
@@ -1907,7 +1907,7 @@ msgstr "{0} UNI-V2"
 msgid "{0} UNI-V2 LP tokens available"
 msgstr "{0} UNI-V2 LP-tokens tilgjengelig"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "{0} Votes"
 msgstr "{0} Stemmer"
 

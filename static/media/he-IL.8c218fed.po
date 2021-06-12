@@ -152,7 +152,7 @@ msgstr "פָּעִיל"
 msgid "Add"
 msgstr "לְהוֹסִיף"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Add Delegate +"
 msgstr "הוסף נציג +"
 
@@ -322,7 +322,7 @@ msgid "Charts"
 msgstr "תרשימים"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
+msgid "Instant Finality powered by Avalanche"
 msgstr "עיין במדריכי ההדרכה וההעברה של v3 LP שלנו."
 
 #: src/components/earn/ClaimRewardModal.tsx
@@ -449,7 +449,7 @@ msgstr "אשר החלפה"
 #: src/components/TransactionConfirmationModal/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Confirm this transaction in your wallet"
 msgstr "אשר את העסקה בארנק שלך"
 
@@ -543,7 +543,7 @@ msgstr "מחיר נוכחי"
 msgid "Current {0} Price:"
 msgstr "מחיר {0} נוכחי:"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Delegate Votes"
 msgstr "נציג הצבעות"
 
@@ -551,8 +551,8 @@ msgstr "נציג הצבעות"
 msgid "Delegated to:"
 msgstr "הועבר ל:"
 
-#: src/components/vote/DelegateModal.tsx
-msgid "Delegating votes"
+#: src/components/Vote/DelegateModal.tsx
+msgid "Delegating Votes"
 msgstr "האצלת קולות"
 
 #: src/components/earn/PoolCard.tsx
@@ -626,7 +626,7 @@ msgstr "מסמכים"
 msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "אינך רואה את אחת מעמדות ה- v2 שלך? <0> ייבא אותו.</0>"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Earned UNI tokens represent voting shares in Uniswap governance."
 msgstr "אסימונים של UNI שהושכרו מייצגים מניות הצבעה בממשל Uniswap."
 
@@ -1015,7 +1015,7 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "ברגע שאתה מרוצה מהספק לחץ על שיעור לבדיקה."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgid "Only UNI Votes that were self delegated or delegated to another address before block {0} are eligible for voting."
 msgstr "זכאים להצביע רק קולות של UNI שהועברו בעצמם או הועברו לכתובת אחרת לפני גוש {0}"
 
 #: src/components/Web3ReactManager/index.tsx
@@ -1174,7 +1174,7 @@ msgstr "לְהַסִיר"
 msgid "Remove Amount"
 msgstr "הסר את הסכום"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Remove Delegate"
 msgstr "הסר את הנציג"
 
@@ -1249,7 +1249,7 @@ msgstr "טווח נבחר"
 msgid "Self"
 msgstr "עצמי"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Self Delegate"
 msgstr "נציג עצמי"
 
@@ -1291,7 +1291,7 @@ msgstr "משהו השתבש"
 msgid "Step 1. Get UNI-V2 Liquidity tokens"
 msgstr "שלב 1. קבל תווי נזילות של UNI-V2"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Submitting Vote"
 msgstr "הגשת הצבעה"
 
@@ -1429,8 +1429,8 @@ msgstr "הגדרות עסקה"
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-#: src/components/vote/DelegateModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/DelegateModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Transaction Submitted"
 msgstr "העסקה הוגשה"
 
@@ -1459,7 +1459,7 @@ msgid "UNI price:"
 msgstr "מחיר UNI:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgid "UNI tokens represent voting shares in Uniswap governance. You can Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "אסימונים של UNI מייצגים מניות הצבעה בממשל Uniswap. אתה יכול להצביע על כל הצעה בעצמך או להאציל את קולותיך לצד שלישי."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -1492,7 +1492,7 @@ msgid "Uniswap Governance"
 msgstr "ממשל לא מוחלף"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Un3wap V3 כבר כאן!"
 
 #: src/components/SwitchLocaleLink/index.tsx
@@ -1524,7 +1524,7 @@ msgstr "בטל נעילת הצבעות"
 msgid "Unlock Voting"
 msgstr "בטל את נעילת ההצבעה"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Unlocking Votes"
 msgstr "נעילת הצבעות"
 
@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "צפה ב- UNI Analytics"
 
 #: src/pages/Pool/index.tsx
-msgid "View V2 Liquidity"
+msgid "Powered by Vote"
 msgstr "צפה בנזילות V2"
 
 #: src/components/PositionCard/index.tsx
@@ -1592,7 +1592,7 @@ msgstr "צפה ב- Explorer"
 #: src/components/ModalViews/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "View transaction on Explorer"
 msgstr "צפה בעסקה ב- Explorer"
 
@@ -1608,13 +1608,13 @@ msgstr "הצביעו נגד"
 msgid "Vote For"
 msgstr "להצביע ל"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote against proposal {proposalId}"
 msgstr "הצביעו נגד הצעה {proposalId}"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote for proposal {proposalId}"
 msgstr "הצביע להצעה {proposalId}"
 
@@ -1693,8 +1693,8 @@ msgstr "אתה ספק הנזילות הראשון לבריכת Uniswap V3 זו. 
 msgid "You are the first liquidity provider."
 msgstr "אתה ספק הנזילות הראשון."
 
-#: src/components/vote/DelegateModal.tsx
-msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+#: src/components/Vote/DelegateModal.tsx
+msgid "You can either Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "אתה יכול להצביע בעצמך על כל הצעה או להאציל את קולותיך לצד שלישי."
 
 #: src/pages/Swap/index.tsx
@@ -1907,7 +1907,7 @@ msgstr "{0} UNI-V2"
 msgid "{0} UNI-V2 LP tokens available"
 msgstr "{0} UNI-V2 LP אסימונים זמינים"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "{0} Votes"
 msgstr "{0} הצבעות"
 

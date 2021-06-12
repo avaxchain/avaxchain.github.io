@@ -152,7 +152,7 @@ msgstr "Aktív"
 msgid "Add"
 msgstr "Hozzáadás"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Add Delegate +"
 msgstr "Adja hozzá a Delegate + elemet"
 
@@ -322,7 +322,7 @@ msgid "Charts"
 msgstr "Diagramok"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
+msgid "Instant Finality powered by Avalanche"
 msgstr "Nézze meg v3 LP áttekintési és átállási útmutatóinkat."
 
 #: src/components/earn/ClaimRewardModal.tsx
@@ -449,7 +449,7 @@ msgstr "Erősítse meg a Csere lehetőséget"
 #: src/components/TransactionConfirmationModal/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Confirm this transaction in your wallet"
 msgstr "Erősítse meg ezt a tranzakciót a pénztárcájában"
 
@@ -543,7 +543,7 @@ msgstr "Jelenlegi ár"
 msgid "Current {0} Price:"
 msgstr "Jelenlegi {0} ár:"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Delegate Votes"
 msgstr "Küldött szavazatok"
 
@@ -551,8 +551,8 @@ msgstr "Küldött szavazatok"
 msgid "Delegated to:"
 msgstr "Delegálva:"
 
-#: src/components/vote/DelegateModal.tsx
-msgid "Delegating votes"
+#: src/components/Vote/DelegateModal.tsx
+msgid "Delegating Votes"
 msgstr "A szavazatok delegálása"
 
 #: src/components/earn/PoolCard.tsx
@@ -626,7 +626,7 @@ msgstr "Dokumentumok"
 msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Nem látja az egyik v2 pozícióját? <0> Importálja.</0>"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Earned UNI tokens represent voting shares in Uniswap governance."
 msgstr "A megszerzett UNI-tokenek a szavazati részesedéseket jelentik az Uniswap irányításában."
 
@@ -1015,7 +1015,7 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "Ha elégedett az árfolyamra, kattintson az áttekintésre."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgid "Only UNI Votes that were self delegated or delegated to another address before block {0} are eligible for voting."
 msgstr "Csak azok az UNI-szavazatok jogosultak szavazni, amelyeket a {0} blokk előtt önállóan vagy más címre delegáltak."
 
 #: src/components/Web3ReactManager/index.tsx
@@ -1174,7 +1174,7 @@ msgstr "Eltávolítás"
 msgid "Remove Amount"
 msgstr "Távolítsa el az összeget"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Remove Delegate"
 msgstr "Távolítsa el a Delegált elemet"
 
@@ -1249,7 +1249,7 @@ msgstr "Kiválasztott tartomány"
 msgid "Self"
 msgstr "Maga"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Self Delegate"
 msgstr "Saját delegált"
 
@@ -1291,7 +1291,7 @@ msgstr "Valami elromlott"
 msgid "Step 1. Get UNI-V2 Liquidity tokens"
 msgstr "1. lépés: Szerezzen be UNI-V2 likviditási tokeneket"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Submitting Vote"
 msgstr "Szavazat benyújtása"
 
@@ -1429,8 +1429,8 @@ msgstr "Tranzakció beállításai"
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-#: src/components/vote/DelegateModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/DelegateModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Transaction Submitted"
 msgstr "Tranzakció benyújtva"
 
@@ -1459,7 +1459,7 @@ msgid "UNI price:"
 msgstr "UNI ár:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgid "UNI tokens represent voting shares in Uniswap governance. You can Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "Az UNI tokenek a szavazati jogokat képviselik az Uniswap irányításában. Az egyes javaslatokról saját maga szavazhat, vagy átruházhatja szavazatait harmadik félre."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -1492,7 +1492,7 @@ msgid "Uniswap Governance"
 msgstr "Irányítás visszavonása"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Itt van az Uniswap V3!"
 
 #: src/components/SwitchLocaleLink/index.tsx
@@ -1524,7 +1524,7 @@ msgstr "Nyissa meg a szavazatokat"
 msgid "Unlock Voting"
 msgstr "Szavazás feloldása"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Unlocking Votes"
 msgstr "Szavazatok feloldása"
 
@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "Az UNI Analytics megtekintése"
 
 #: src/pages/Pool/index.tsx
-msgid "View V2 Liquidity"
+msgid "Powered by Vote"
 msgstr "View V2 Likviditás"
 
 #: src/components/PositionCard/index.tsx
@@ -1592,7 +1592,7 @@ msgstr "Megtekintés az Intézőben"
 #: src/components/ModalViews/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "View transaction on Explorer"
 msgstr "Tranzakció megtekintése az Intézőben"
 
@@ -1608,13 +1608,13 @@ msgstr "Szavazás ellen"
 msgid "Vote For"
 msgstr "Szavaz rá"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote against proposal {proposalId}"
 msgstr "Szavazás a {proposalId}"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote for proposal {proposalId}"
 msgstr "Szavazás a {proposalId}"
 
@@ -1693,8 +1693,8 @@ msgstr "Ön az első likviditásszolgáltató ennek az Uniswap V3 készletnek. L
 msgid "You are the first liquidity provider."
 msgstr "Ön az első likviditásszolgáltató."
 
-#: src/components/vote/DelegateModal.tsx
-msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+#: src/components/Vote/DelegateModal.tsx
+msgid "You can either Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "Vagy maga szavazhat az egyes javaslatokról, vagy átruházhatja szavazatait harmadik félre."
 
 #: src/pages/Swap/index.tsx
@@ -1907,7 +1907,7 @@ msgstr "{0} UNI-V2"
 msgid "{0} UNI-V2 LP tokens available"
 msgstr "{0} UNI-V2 LP token érhető el"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "{0} Votes"
 msgstr "{0} szavazat"
 

@@ -152,7 +152,7 @@ msgstr "アクティブ"
 msgid "Add"
 msgstr "追加"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Add Delegate +"
 msgstr "第三者に投票を委任する"
 
@@ -322,7 +322,7 @@ msgid "Charts"
 msgstr "チャート"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
+msgid "Instant Finality powered by Avalanche"
 msgstr "V3の流動性と移行ガイドをご覧ください。"
 
 #: src/components/earn/ClaimRewardModal.tsx
@@ -449,7 +449,7 @@ msgstr "スワップの確認"
 #: src/components/TransactionConfirmationModal/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Confirm this transaction in your wallet"
 msgstr "ウォレットで取引を確認する"
 
@@ -543,7 +543,7 @@ msgstr "現在価格"
 msgid "Current {0} Price:"
 msgstr "{0} の現在価格:"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Delegate Votes"
 msgstr "投票を委任する"
 
@@ -551,8 +551,8 @@ msgstr "投票を委任する"
 msgid "Delegated to:"
 msgstr "投票の委任先:"
 
-#: src/components/vote/DelegateModal.tsx
-msgid "Delegating votes"
+#: src/components/Vote/DelegateModal.tsx
+msgid "Delegating Votes"
 msgstr "投票を委任中"
 
 #: src/components/earn/PoolCard.tsx
@@ -626,7 +626,7 @@ msgstr "資料"
 msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "V2の流動性が表示されない場合、該当のトークンを<0>インポート</0>してください"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Earned UNI tokens represent voting shares in Uniswap governance."
 msgstr "保有するUNIトークンは、Uniswapのガバナンスにおける投票権を表します。"
 
@@ -1015,7 +1015,7 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "価格に問題がなければ、「追加」をクリックして確認します。"
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgid "Only UNI Votes that were self delegated or delegated to another address before block {0} are eligible for voting."
 msgstr "ブロック{0} 以前に自己委任、または他のアドレスに委任されたUNIのみが投票の対象となります。"
 
 #: src/components/Web3ReactManager/index.tsx
@@ -1174,7 +1174,7 @@ msgstr "削除"
 msgid "Remove Amount"
 msgstr "削除する数量"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Remove Delegate"
 msgstr "自分で投票する"
 
@@ -1249,7 +1249,7 @@ msgstr "選択した価格帯"
 msgid "Self"
 msgstr "自分"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Self Delegate"
 msgstr "自分で投票する"
 
@@ -1291,7 +1291,7 @@ msgstr "何らかの問題が発生しました"
 msgid "Step 1. Get UNI-V2 Liquidity tokens"
 msgstr "ステップ1. UNI-V2流動性トークンを入手"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Submitting Vote"
 msgstr "投票を送信中"
 
@@ -1429,8 +1429,8 @@ msgstr "取引設定"
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-#: src/components/vote/DelegateModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/DelegateModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Transaction Submitted"
 msgstr "取引が送信されました"
 
@@ -1459,7 +1459,7 @@ msgid "UNI price:"
 msgstr "UNIの価格:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgid "UNI tokens represent voting shares in Uniswap governance. You can Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "UNIトークンはUniswapガバナンスにおける投票権を表します。各提案に対して自分で投票するか、もしくは第三者に投票を委任することができます。"
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -1492,7 +1492,7 @@ msgid "Uniswap Governance"
 msgstr "Uniswapのガバナンス"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Uniswap V3登場！"
 
 #: src/components/SwitchLocaleLink/index.tsx
@@ -1524,7 +1524,7 @@ msgstr "投票のロックを解除"
 msgid "Unlock Voting"
 msgstr "投票のロックを解除"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Unlocking Votes"
 msgstr "投票のロックを解除中"
 
@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "UNI アナリティクスを表示"
 
 #: src/pages/Pool/index.tsx
-msgid "View V2 Liquidity"
+msgid "Powered by Vote"
 msgstr "V2の流動性を表示"
 
 #: src/components/PositionCard/index.tsx
@@ -1592,7 +1592,7 @@ msgstr "エクスプローラーで見る"
 #: src/components/ModalViews/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "View transaction on Explorer"
 msgstr "エクスプローラーで取引を表示する"
 
@@ -1608,13 +1608,13 @@ msgstr "反対に投票"
 msgid "Vote For"
 msgstr "賛成に投票"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote against proposal {proposalId}"
 msgstr "提案 {proposalId} に反対票を入れる"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote for proposal {proposalId}"
 msgstr "提案 {proposalId} に賛成票を入れる"
 
@@ -1693,8 +1693,8 @@ msgstr "あなたはUniswap V3プールの最初の流動性提供者です。�
 msgid "You are the first liquidity provider."
 msgstr "あなたは最初の流動性提供者です。"
 
-#: src/components/vote/DelegateModal.tsx
-msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+#: src/components/Vote/DelegateModal.tsx
+msgid "You can either Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "各提案に対して自分で投票するか、または第三者に投票を委任することができます。"
 
 #: src/pages/Swap/index.tsx
@@ -1907,7 +1907,7 @@ msgstr "{0} UNI-V2"
 msgid "{0} UNI-V2 LP tokens available"
 msgstr "{0} UNI-V2 LPトークンが利用可能"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "{0} Votes"
 msgstr "{0} の投票"
 

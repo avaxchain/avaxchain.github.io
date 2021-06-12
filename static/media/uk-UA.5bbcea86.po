@@ -152,7 +152,7 @@ msgstr "Активний"
 msgid "Add"
 msgstr "Додати"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Add Delegate +"
 msgstr "Додати Делегат +"
 
@@ -322,7 +322,7 @@ msgid "Charts"
 msgstr "Діаграми"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
+msgid "Instant Finality powered by Avalanche"
 msgstr "Ознайомтеся з нашим прогулянком v3 LP та міграційними інструкціями."
 
 #: src/components/earn/ClaimRewardModal.tsx
@@ -449,7 +449,7 @@ msgstr "Підтвердьте обмін"
 #: src/components/TransactionConfirmationModal/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Confirm this transaction in your wallet"
 msgstr "Підтвердіть транзакцію у вашому гаманці"
 
@@ -543,7 +543,7 @@ msgstr "Поточна ціна"
 msgid "Current {0} Price:"
 msgstr "Поточна {0} ціна:"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Delegate Votes"
 msgstr "Делегувати голосування"
 
@@ -551,8 +551,8 @@ msgstr "Делегувати голосування"
 msgid "Delegated to:"
 msgstr "Делеговані до:"
 
-#: src/components/vote/DelegateModal.tsx
-msgid "Delegating votes"
+#: src/components/Vote/DelegateModal.tsx
+msgid "Delegating Votes"
 msgstr "Делегуючі голоси"
 
 #: src/components/earn/PoolCard.tsx
@@ -626,7 +626,7 @@ msgstr "Документація"
 msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Не бачите одну з ваших позицій v2? <0>Імпортувати ї.</0>"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Earned UNI tokens represent voting shares in Uniswap governance."
 msgstr "Отримані маркери UNI представляють акції голосування в управлінні Uniswap (Unischang)."
 
@@ -1015,7 +1015,7 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "Як тільки ви будете задоволені швидким натисканням на пропозицію, щоб переглянути."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgid "Only UNI Votes that were self delegated or delegated to another address before block {0} are eligible for voting."
 msgstr "Голоси ЮНІ, які були делеговані або делеговані на іншу адресу перед блокуванням {0} мають право голосувати."
 
 #: src/components/Web3ReactManager/index.tsx
@@ -1174,7 +1174,7 @@ msgstr "Видалити"
 msgid "Remove Amount"
 msgstr "Видалити суму"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Remove Delegate"
 msgstr "Видалити делегат"
 
@@ -1249,7 +1249,7 @@ msgstr "Обраний діапазон"
 msgid "Self"
 msgstr "Я сам"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Self Delegate"
 msgstr "Власний делегат"
 
@@ -1291,7 +1291,7 @@ msgstr "Щось пішло не так"
 msgid "Step 1. Get UNI-V2 Liquidity tokens"
 msgstr "Крок 1. Отримати токени ліквідності UNI-V2"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Submitting Vote"
 msgstr "Відправка голосу"
 
@@ -1429,8 +1429,8 @@ msgstr "Параметри транзакції"
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-#: src/components/vote/DelegateModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/DelegateModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Transaction Submitted"
 msgstr "Угода підтверджена"
 
@@ -1459,7 +1459,7 @@ msgid "UNI price:"
 msgstr "Ціна UNI:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgid "UNI tokens represent voting shares in Uniswap governance. You can Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "Знаки UNI представляють акції голосування в управлінні Uniswap адміністрації. Ви можете голосувати за кожну пропозицію самостійно або делегувати ваші голоси третім особам."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -1492,7 +1492,7 @@ msgid "Uniswap Governance"
 msgstr "Об’єднати управління"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Uniswap V3 тут!"
 
 #: src/components/SwitchLocaleLink/index.tsx
@@ -1524,7 +1524,7 @@ msgstr "Розблокувати голосування"
 msgid "Unlock Voting"
 msgstr "Відкрити голосування"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Unlocking Votes"
 msgstr "Розблокування голосів"
 
@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "Переглянути аналітику UNI"
 
 #: src/pages/Pool/index.tsx
-msgid "View V2 Liquidity"
+msgid "Powered by Vote"
 msgstr "Перегляд V2 ліквідності"
 
 #: src/components/PositionCard/index.tsx
@@ -1592,7 +1592,7 @@ msgstr "Переглянути на Explorer"
 #: src/components/ModalViews/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "View transaction on Explorer"
 msgstr "Переглянути транзакцію в Провіднику"
 
@@ -1608,13 +1608,13 @@ msgstr "Проголосувати проти"
 msgid "Vote For"
 msgstr "Голосувати за"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote against proposal {proposalId}"
 msgstr "Голосувати проти пропозиції {proposalId}"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote for proposal {proposalId}"
 msgstr "Голосувати за пропозицію {proposalId}"
 
@@ -1693,8 +1693,8 @@ msgstr "Ви є першим постачальником ліквідності
 msgid "You are the first liquidity provider."
 msgstr "Ви перший постачальник ліквідності."
 
-#: src/components/vote/DelegateModal.tsx
-msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+#: src/components/Vote/DelegateModal.tsx
+msgid "You can either Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "Ви можете голосувати за кожну пропозицію самостійно або делегувати свої голоси третім особам."
 
 #: src/pages/Swap/index.tsx
@@ -1907,7 +1907,7 @@ msgstr "{0} UNI-V2"
 msgid "{0} UNI-V2 LP tokens available"
 msgstr "{0} доступні UNI-V2 LP токени"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "{0} Votes"
 msgstr "{0} голосів"
 

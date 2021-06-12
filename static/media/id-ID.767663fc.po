@@ -152,7 +152,7 @@ msgstr "Aktif"
 msgid "Add"
 msgstr "Menambahkan"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Add Delegate +"
 msgstr "Tambahkan Delegasi +"
 
@@ -322,7 +322,7 @@ msgid "Charts"
 msgstr "Grafik"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
+msgid "Instant Finality powered by Avalanche"
 msgstr "Lihat panduan migrasi dan panduan v3 LP kami."
 
 #: src/components/earn/ClaimRewardModal.tsx
@@ -449,7 +449,7 @@ msgstr "Konfirmasi Swap"
 #: src/components/TransactionConfirmationModal/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Confirm this transaction in your wallet"
 msgstr "Konfirmasikan transaksi ini di dompet Anda"
 
@@ -543,7 +543,7 @@ msgstr "Harga sekarang"
 msgid "Current {0} Price:"
 msgstr "Harga {0} saat ini:"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Delegate Votes"
 msgstr "Delegasikan Suara"
 
@@ -551,8 +551,8 @@ msgstr "Delegasikan Suara"
 msgid "Delegated to:"
 msgstr "Didelegasikan ke:"
 
-#: src/components/vote/DelegateModal.tsx
-msgid "Delegating votes"
+#: src/components/Vote/DelegateModal.tsx
+msgid "Delegating Votes"
 msgstr "Mendelegasikan suara"
 
 #: src/components/earn/PoolCard.tsx
@@ -626,7 +626,7 @@ msgstr "Docs"
 msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Tidak melihat salah satu posisi v2 Anda? <0> Impor.</0>"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Earned UNI tokens represent voting shares in Uniswap governance."
 msgstr "Token UNI yang diperoleh mewakili hak suara dalam tata kelola Uniswap."
 
@@ -1015,7 +1015,7 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "Setelah Anda puas dengan penawaran harga klik untuk meninjau."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgid "Only UNI Votes that were self delegated or delegated to another address before block {0} are eligible for voting."
 msgstr "Hanya suara UNI yang didelegasikan sendiri atau didelegasikan ke alamat lain sebelum blok {0} yang memenuhi syarat untuk pemungutan suara."
 
 #: src/components/Web3ReactManager/index.tsx
@@ -1174,7 +1174,7 @@ msgstr "Menghapus"
 msgid "Remove Amount"
 msgstr "Hapus Jumlah"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Remove Delegate"
 msgstr "Hapus Delegasi"
 
@@ -1249,7 +1249,7 @@ msgstr "Rentang yang Dipilih"
 msgid "Self"
 msgstr "Diri"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Self Delegate"
 msgstr "Delegasi Sendiri"
 
@@ -1291,7 +1291,7 @@ msgstr "Ada yang salah"
 msgid "Step 1. Get UNI-V2 Liquidity tokens"
 msgstr "Langkah 1. Dapatkan token Likuiditas UNI-V2"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Submitting Vote"
 msgstr "Mengirim Suara"
 
@@ -1429,8 +1429,8 @@ msgstr "Pengaturan Transaksi"
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-#: src/components/vote/DelegateModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/DelegateModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Transaction Submitted"
 msgstr "Transaksi Dikirim"
 
@@ -1459,7 +1459,7 @@ msgid "UNI price:"
 msgstr "Harga UNI:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgid "UNI tokens represent voting shares in Uniswap governance. You can Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "Token UNI mewakili hak suara dalam tata kelola Uniswap. Anda dapat memberikan suara pada setiap proposal sendiri atau mendelegasikan suara Anda ke pihak ketiga."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -1492,7 +1492,7 @@ msgid "Uniswap Governance"
 msgstr "Tata Kelola Uniswap"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Uniswap V3 ada di sini!"
 
 #: src/components/SwitchLocaleLink/index.tsx
@@ -1524,7 +1524,7 @@ msgstr "Buka Suara"
 msgid "Unlock Voting"
 msgstr "Buka Kunci Voting"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Unlocking Votes"
 msgstr "Membuka Suara"
 
@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "Lihat UNI Analytics"
 
 #: src/pages/Pool/index.tsx
-msgid "View V2 Liquidity"
+msgid "Powered by Vote"
 msgstr "Lihat Likuiditas V2"
 
 #: src/components/PositionCard/index.tsx
@@ -1592,7 +1592,7 @@ msgstr "Lihat di Explorer"
 #: src/components/ModalViews/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "View transaction on Explorer"
 msgstr "Lihat transaksi di Explorer"
 
@@ -1608,13 +1608,13 @@ msgstr "Beri Suara Menentang"
 msgid "Vote For"
 msgstr "Memilih untuk"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote against proposal {proposalId}"
 msgstr "Memberi suara menentang proposal {proposalId}"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote for proposal {proposalId}"
 msgstr "Beri suara untuk proposal {proposalId}"
 
@@ -1693,8 +1693,8 @@ msgstr "Anda adalah penyedia likuiditas pertama untuk kumpulan Uniswap V3 ini. L
 msgid "You are the first liquidity provider."
 msgstr "Anda adalah penyedia likuiditas pertama."
 
-#: src/components/vote/DelegateModal.tsx
-msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+#: src/components/Vote/DelegateModal.tsx
+msgid "You can either Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "Anda dapat memilih sendiri setiap proposal atau mendelegasikan suara Anda ke pihak ketiga."
 
 #: src/pages/Swap/index.tsx
@@ -1907,7 +1907,7 @@ msgstr "{0} UNI-V2"
 msgid "{0} UNI-V2 LP tokens available"
 msgstr "{0} token UNI-V2 LP tersedia"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "{0} Votes"
 msgstr "{0} Suara"
 

@@ -152,7 +152,7 @@ msgstr "유효한"
 msgid "Add"
 msgstr "더하다"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Add Delegate +"
 msgstr "대리인 추가 +"
 
@@ -322,7 +322,7 @@ msgid "Charts"
 msgstr "차트"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
+msgid "Instant Finality powered by Avalanche"
 msgstr "v3 LP 연습 및 마이그레이션 가이드를 확인하세요."
 
 #: src/components/earn/ClaimRewardModal.tsx
@@ -449,7 +449,7 @@ msgstr "스왑 확인"
 #: src/components/TransactionConfirmationModal/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Confirm this transaction in your wallet"
 msgstr "지갑에서이 거래를 확인하세요"
 
@@ -543,7 +543,7 @@ msgstr "현재 가격"
 msgid "Current {0} Price:"
 msgstr "현재 {0} 가격 :"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Delegate Votes"
 msgstr "위임 투표"
 
@@ -551,8 +551,8 @@ msgstr "위임 투표"
 msgid "Delegated to:"
 msgstr "위임 대상 :"
 
-#: src/components/vote/DelegateModal.tsx
-msgid "Delegating votes"
+#: src/components/Vote/DelegateModal.tsx
+msgid "Delegating Votes"
 msgstr "투표 위임"
 
 #: src/components/earn/PoolCard.tsx
@@ -626,7 +626,7 @@ msgstr "문서"
 msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "v2 위치 중 하나가 보이지 않습니까? <0> 가져 오기.</0>"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Earned UNI tokens represent voting shares in Uniswap governance."
 msgstr "획득 한 UNI 토큰은 Uniswap 거버넌스의 의결권을 나타냅니다."
 
@@ -1015,7 +1015,7 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "요율에 만족하면 공급을 클릭하여 검토하십시오."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgid "Only UNI Votes that were self delegated or delegated to another address before block {0} are eligible for voting."
 msgstr "{0} 이전에 자체 위임되었거나 다른 주소로 위임 된 UNI 투표 만 투표 할 수 있습니다."
 
 #: src/components/Web3ReactManager/index.tsx
@@ -1174,7 +1174,7 @@ msgstr "없애다"
 msgid "Remove Amount"
 msgstr "금액 제거"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Remove Delegate"
 msgstr "대리인 제거"
 
@@ -1249,7 +1249,7 @@ msgstr "선택한 범위"
 msgid "Self"
 msgstr "본인"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Self Delegate"
 msgstr "자체 대리인"
 
@@ -1291,7 +1291,7 @@ msgstr "문제가 발생했습니다"
 msgid "Step 1. Get UNI-V2 Liquidity tokens"
 msgstr "1 단계. UNI-V2 유동성 토큰 받기"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Submitting Vote"
 msgstr "투표 제출"
 
@@ -1429,8 +1429,8 @@ msgstr "거래 설정"
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-#: src/components/vote/DelegateModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/DelegateModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Transaction Submitted"
 msgstr "제출 된 거래"
 
@@ -1459,7 +1459,7 @@ msgid "UNI price:"
 msgstr "UNI 가격 :"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgid "UNI tokens represent voting shares in Uniswap governance. You can Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "UNI 토큰은 Uniswap 거버넌스의 의결권을 나타냅니다. 각 제안에 대해 직접 투표하거나 제 3 자에게 투표를 위임 할 수 있습니다."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -1492,7 +1492,7 @@ msgid "Uniswap Governance"
 msgstr "Uniswap 거버넌스"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Uniswap V3 is here!"
+msgid "V3 is here!"
 msgstr "Uniswap V3가 출시되었습니다!"
 
 #: src/components/SwitchLocaleLink/index.tsx
@@ -1524,7 +1524,7 @@ msgstr "투표 잠금 해제"
 msgid "Unlock Voting"
 msgstr "투표 잠금 해제"
 
-#: src/components/vote/DelegateModal.tsx
+#: src/components/Vote/DelegateModal.tsx
 msgid "Unlocking Votes"
 msgstr "투표 잠금 해제"
 
@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "UNI 분석보기"
 
 #: src/pages/Pool/index.tsx
-msgid "View V2 Liquidity"
+msgid "Powered by Vote"
 msgstr "V2 유동성보기"
 
 #: src/components/PositionCard/index.tsx
@@ -1592,7 +1592,7 @@ msgstr "Explorer에서보기"
 #: src/components/ModalViews/index.tsx
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "View transaction on Explorer"
 msgstr "Explorer에서 거래보기"
 
@@ -1608,13 +1608,13 @@ msgstr "반대 투표"
 msgid "Vote For"
 msgstr "투표하다"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote against proposal {proposalId}"
 msgstr "{proposalId}에 반대 투표"
 
-#: src/components/vote/VoteModal.tsx
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "Vote for proposal {proposalId}"
 msgstr "제안 {proposalId}"
 
@@ -1693,8 +1693,8 @@ msgstr "귀하는이 Uniswap V3 풀의 최초 유동성 공급자입니다. 유�
 msgid "You are the first liquidity provider."
 msgstr "당신은 최초의 유동성 공급자입니다."
 
-#: src/components/vote/DelegateModal.tsx
-msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+#: src/components/Vote/DelegateModal.tsx
+msgid "You can either Vote on each proposal yourself or delegate your Votes to a third party."
 msgstr "각 제안에 대해 직접 투표하거나 제 3 자에게 투표를 위임 할 수 있습니다."
 
 #: src/pages/Swap/index.tsx
@@ -1907,7 +1907,7 @@ msgstr "{0} UNI-V2"
 msgid "{0} UNI-V2 LP tokens available"
 msgstr "{0} UNI-V2 LP 토큰 사용 가능"
 
-#: src/components/vote/VoteModal.tsx
+#: src/components/Vote/VoteModal.tsx
 msgid "{0} Votes"
 msgstr "{0} 투표"
 

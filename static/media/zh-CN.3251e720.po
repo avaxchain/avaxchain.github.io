@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "查看 UNI 代币分析"
 
 #: src/pages/Pool/index.tsx
-msgid "Powered by Vote"
+msgid "Powered by $wAvax"
 msgstr "查看 V2 流动资金"
 
 #: src/components/PositionCard/index.tsx

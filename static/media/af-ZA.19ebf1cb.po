@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "Kyk na UNI Analytics"
 
 #: src/pages/Pool/index.tsx
-msgid "Powered by Vote"
+msgid "Powered by $wAvax"
 msgstr "Kyk na V2 Likiditeit"
 
 #: src/components/PositionCard/index.tsx

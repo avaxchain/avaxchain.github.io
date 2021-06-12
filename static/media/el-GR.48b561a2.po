@@ -1572,7 +1572,7 @@ msgid "View UNI Analytics"
 msgstr "Προβολή UNI Analytics"
 
 #: src/pages/Pool/index.tsx
-msgid "Powered by Vote"
+msgid "Powered by $wAvax"
 msgstr "Προβολή V2 Ρευστότητας"
 
 #: src/components/PositionCard/index.tsx

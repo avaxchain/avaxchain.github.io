@@ -1569,8 +1569,8 @@ msgid "View UNI Analytics"
 msgstr "View UNI Analytics"
 
 #: src/pages/Pool/index.tsx
-msgid "Powered by Vote"
-msgstr "Powered by Vote"
+msgid "Powered by $wAvax"
+msgstr "Powered by $wAvax"
 
 #: src/components/PositionCard/index.tsx
 msgid "View accrued fees and analytics<0>↗</0>"
